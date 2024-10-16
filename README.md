@@ -26,21 +26,25 @@ This project is a 2D rendering application that demonstrates core computer graph
 ### 1. Spaceship in Asteroid Environment:
 
 ![Spaceship in Asteroid Environment](https://github.com/AyeshaRahman2002/ComputerGraphics-2d-Rendering/blob/main/images/Screenshot%202024-10-16%20at%2003.16.01.png)
+
 *Example of a spaceship rendered among asteroids.*
 
 ### 2. Spaceship Flying Through Asteroids:
 
 ![Spaceship in Asteroid Environment 2](https://github.com/AyeshaRahman2002/ComputerGraphics-2d-Rendering/blob/main/images/Screenshot%202024-10-16%20at%2003.16.17.png)
+
 *Spaceship moving through asteroid field.*
 
 ### 3. Spacecraft in Orbit Near Earth:
 
 ![Spacecraft Near Earth](https://github.com/AyeshaRahman2002/ComputerGraphics-2d-Rendering/blob/main/images/Screenshot%202024-10-16%20at%2003.16.24.png)
+
 *The spacecraft moving towards Earth.*
 
 ### 4. Close-up of Spaceship Design:
 
 ![Close-up of Spaceship Design](https://github.com/AyeshaRahman2002/ComputerGraphics-2d-Rendering/blob/main/images/Screenshot%202024-10-16%20at%2003.16.32.png)
+
 *Detailed design of the custom spaceship.*
 
 ## Technologies Used
